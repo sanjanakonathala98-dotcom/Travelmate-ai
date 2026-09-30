@@ -1,0 +1,7 @@
+{
+  "name": "TravelMate AI - Smart Global Travel Planner",
+  "description": "AI-powered travel planning companion. Personalized itineraries, hotels, transport, attractions, and n8n AI agent webhook integration for any destination worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
